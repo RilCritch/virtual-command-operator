@@ -1,4 +1,4 @@
-# TUI Chat Implementation Plan
+# VCO (Virtual Chat Operator) Implementation Plan
 
 ## Overview
 This document defines the overarching phased plan for implementing the terminal AI TUI. It is a guide for sequencing work and preventing scope creep. Each phase will later receive its own detailed, granular plan.
@@ -36,6 +36,7 @@ Deliverables:
 - File reference parsing (OpenCode-style)
 - Keyboard system with user-configurable keymaps
 - Vim-inspired modal navigation (Normal/Insert/Command) baseline
+- Note: VCO stands for Virtual Chat Operator; in keybinding contexts it can also be read as Vim Chat Operator.
 
 Exit criteria:
 - Keyboard-first navigation is complete for core views

@@ -12,7 +12,7 @@ Developer-facing documentation for planning, architecture, and decisions.
 ### Planning
 - project-docs/plans/
   - Contains overarching plans and phase plans.
-- project-docs/plans/tui-chat-implementation-plan.md
+- project-docs/plans/vco-implementation-plan.md
   - Overarching phased implementation plan.
 
 ### Project Idea

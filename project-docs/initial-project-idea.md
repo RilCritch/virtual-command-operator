@@ -1,4 +1,4 @@
-# Project Idea Review: Terminal AI TUI
+# Project Idea Review: VCO (Virtual Chat Operator)
 
 ## Overview
 Build a terminal-native AI chat interface inspired by ChatGPT/Claude and OpenCode TUI. The app runs in the terminal with strong aesthetics, efficient keyboard navigation, and deep integration with the OpenCode server. It supports chat history, projects, personal memory, search, custom agents, and a future artifact/canvas system that runs in the default browser.
@@ -56,6 +56,7 @@ Build a terminal-native AI chat interface inspired by ChatGPT/Claude and OpenCod
 
 ## Key UX Requirements
 - Vim-inspired modal navigation (not full editor)
+- Note: VCO stands for Virtual Chat Operator; in keybinding contexts it can also be read as Vim Chat Operator.
 - Customizable keybindings per user
 - Fast, snappy performance (async streaming, batched renders)
 - File references (OpenCode-style)
