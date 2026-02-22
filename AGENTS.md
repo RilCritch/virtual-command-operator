@@ -1,6 +1,6 @@
 # Agent Guide (VCO)
 
-This file is for agentic coding assistants working in VCO (Virtual Chat Operator).
+This file is for agentic coding assistants working in VCO (Virtual Command Operator).
 It summarizes how to build, test, and follow code style.
 
 ## Status of the codebase
@@ -135,7 +135,7 @@ These are baseline guidelines until code style tooling is defined.
 - Keep project-docs/README.md updated when structure changes.
 - Record significant decisions as ADRs in project-docs/decisions/.
 - Update TASKS.md with lightweight Now/Next/Later items.
-- Use VCO (Virtual Chat Operator) on first mention, then VCO.
+- Use VCO (Virtual Command Operator) on first mention, then VCO.
 
 ## Updating this file
 When new tooling is added, update the following:
